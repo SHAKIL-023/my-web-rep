@@ -6,3 +6,10 @@ div {
 ul {
   color: blueviolet;
 }
+.lorem {
+  background-color: aquamarine;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px;
+}
